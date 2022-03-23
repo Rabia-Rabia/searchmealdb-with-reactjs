@@ -1,0 +1,8 @@
+.meals {
+    border: 1px solid grey;
+    padding: 15px;
+}
+
+.meals > img {
+    width: 200px;
+}
